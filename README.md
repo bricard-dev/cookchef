@@ -31,9 +31,9 @@ This project is inspired by a chapter of the React course created by [Dyma](http
 
 ### Features
 
-- [ ] Set up a navigation bar
-- [ ] Set up a footer
-- [ ] Display a recipe list
+- [x] Set up a navigation bar
+- [x] Set up a footer
+- [x] Display a recipe list
 - [x] Set up styles with partials
 
 ## Getting started
