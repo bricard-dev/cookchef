@@ -20,6 +20,8 @@ A copy of the marmiton website.
 
 ## General Information
 
+![Demo](./public/images/demo.png)
+
 This project is inspired by a chapter of the React course created by [Dyma](https://www.dyma.fr). It aims to improve my skills on the javascript framework React and its many specificities.
 
 ### Technologies
