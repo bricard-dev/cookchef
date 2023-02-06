@@ -40,7 +40,7 @@ This project is inspired by a chapter of the React course created by [Dyma](http
 - [x] Set up like recipe system
 - [x] Make the app responsive
 - [x] Add mobile menu
-- [] Add search bar
+- [x] Add search bar
 
 ## Getting started
 
