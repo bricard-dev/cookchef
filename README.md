@@ -39,7 +39,7 @@ This project is inspired by a chapter of the React course created by [Dyma](http
 - [x] Set up styles with partials
 - [x] Set up like recipe system
 - [x] Make the app responsive
-- [] Add mobile menu
+- [x] Add mobile menu
 - [] Add search bar
 
 ## Getting started
