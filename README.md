@@ -37,7 +37,7 @@ This project is inspired by a chapter of the React course created by [Dyma](http
 - [x] Set up a footer
 - [x] Display a recipe list
 - [x] Set up styles with partials
-- [] Set up like recipe system
+- [x] Set up like recipe system
 - [x] Make the app responsive
 - [] Add mobile menu
 - [] Add search bar
